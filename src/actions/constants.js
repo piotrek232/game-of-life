@@ -1,0 +1,3 @@
+export const PREFILL_BOARD = 'PREFILL_BOARD';
+export const TOGGLE_CELL = 'TOGGLE_CELL';
+export const CREATE_NEXT_GEN = 'CREATE_NEXT_GEN';
